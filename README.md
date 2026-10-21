@@ -37,5 +37,7 @@ Follow the prompts to modify the repository. Once the repository has been create
 ## Instructions to modify this tool
 Fork the https://github.com/LizCarter492/DIWA_repo_cookiecutter repository. To change any elements of the template, navigate to the {{ cookiecutter.project_slug }}. All template elements are editable in this space. Once you are satisfied with your edits, push them to your forked repository, and submit a pull request.
 
+[![Binder](https://hub.diwatools.com/badge_logo.svg)](https://hub.diwatools.com/v2/gh/DigitalWaters-fi/DIWA_repo_cookiecutter.git/HEAD)
+
 
 
